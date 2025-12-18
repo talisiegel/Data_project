@@ -1,2 +1,2 @@
 # Data_project
-![Movie name length](("title_length_vs_popularity")
+![Movie name length](("Figure_1.png")
