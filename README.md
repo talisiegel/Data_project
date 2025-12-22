@@ -16,4 +16,4 @@ https://www.kaggle.com/datasets/muhammadatifkhan181/top-rated-movies-in-tmdb-csv
 
 # Project Instructions
 
-https://www.kaggle.com/datasets/muhammadatifkhan181/top-rated-movies-in-tmdb-csv/data
+(https://github.com/teacher aj/HeschelCS/blob/main/project_02_visualizing_datasets/README.md)
